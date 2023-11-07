@@ -9,7 +9,7 @@ $website = '<!DOCTYPE html>
    <!--- Basic Page Needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Puremedia</title>
+	<title>Suremedia</title>
 	<meta name="description" content="">  
 	<meta name="author" content="">
 
@@ -850,7 +850,7 @@ $website = '<!DOCTYPE html>
 				
 				<h3>About Puremedia</h3>
                
-            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
+            <p>This is Photoshop's version  of some site i am trying to figure out, let us see how that goes. Hey am also tyring to master git. ida nibh vel velit auctor aliquet.
             Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
             nibh id elit. 
             </p>
@@ -875,7 +875,7 @@ $website = '<!DOCTYPE html>
                   <ul>
                     <li><a href="tel:6473438234">647.343.8234</a></li>
                     <li><a href="tel:1234567890">123.456.7890</a></li>
-                    <li><a href="mailto:someone@puremedia.com">someone@puremedia.com</a></li>
+                    <li><a href="mailto:simon@puremedia.com">someone@puremedia.com</a></li>
                   </ul>                  
                </div> <!-- /columns -->             
 
